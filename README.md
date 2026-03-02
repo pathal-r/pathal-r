@@ -1,54 +1,60 @@
-Hi, I’m Rupesh 👋
+# Hi, I’m Rupesh 👋
 
 Robotics Perception Engineer focused on building real-time 3D vision and motion systems for robotic manipulation.
 
 I specialize in combining deep learning and geometric robotics to build high-performance perception pipelines deployed in real-world environments.
 
-🚀 What I Work On
+---
 
-6D Pose Estimation
+## 🚀 What I Work On
 
-3D Vision and Point Cloud Processing
+- 6D Pose Estimation  
+- 3D Vision and Point Cloud Processing  
+- SLAM and Pose Graph Optimization  
+- Multi-Sensor Fusion (IMU + GPS + LiDAR + RGB-D)  
+- GPU-Accelerated Motion Planning  
+- Real-Time Robotic Manipulation  
 
-SLAM and Pose Graph Optimization
+---
 
-Multi-Sensor Fusion (IMU + GPS + LiDAR + RGB-D)
+## 🔬 Engineering Highlights
 
-GPU-Accelerated Motion Planning
+- Achieved +/-1.5 cm pose estimation accuracy in robotic manipulation  
+- Reduced pick-and-place cycle time from 3 minutes to 3 seconds (60x improvement)  
+- Reduced localization error from meter-level to centimeter-level using ICP  
+- Built EKF-based sensor fusion system with 800 Hz IMU and RTK-GPS  
+- Developed perception systems running at 30 FPS on NVIDIA GPU  
 
-Real-Time Robotic Manipulation
+---
 
-🔬 Engineering Highlights
+## 🧠 Tech Stack
 
-Achieved +/-1.5 cm pose estimation accuracy in robotic manipulation
+**Languages & Frameworks**  
+Python | C++ | ROS | PyTorch | CUDA  
 
-Reduced pick-and-place cycle time from 3 minutes to 3 seconds (60x improvement)
+**Robotics & Algorithms**  
+YOLOv8 | ICP | EKF | SLAM | CuRobo  
 
-Reduced localization error from meter-level to centimeter-level using ICP
+**Tools & Simulation**  
+PCL | GTSAM | Isaac Sim | PyBullet  
 
-Built EKF-based sensor fusion system with 800 Hz IMU and RTK-GPS
+---
 
-Developed perception systems running at 30 FPS on NVIDIA GPU
+## 🎓 Education
 
-🧠 Tech Stack
+**M.S. Electrical and Computer Engineering (Robotics)**  
+Northeastern University | GPA: 3.94  
 
-Python | C++ | ROS | PyTorch | CUDA
-YOLOv8 | ICP | EKF | SLAM | CuRobo
-PCL | GTSAM | Isaac Sim | PyBullet
+---
 
-🎓 Education
-
-M.S. Electrical and Computer Engineering (Robotics)
-Northeastern University | GPA: 3.94
-
-📌 Current Focus
+## 📌 Current Focus
 
 Exploring scalable perception architectures, robust multi-sensor fusion, and high-performance GPU-based robotics systems.
 
-🤝 Open To
+---
 
-Robotics Perception Roles
+## 🤝 Open To
 
-Research Engineering Positions
-
-High-performance robotics systems work
+- Robotics Perception Roles  
+- Research Engineering Positions  
+- High-performance robotics systems work  
